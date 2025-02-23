@@ -1,0 +1,12 @@
+[submodule "git-tracker-frontend"]
+	path = git-tracker-frontend
+	url = https://github.com/muhammedsirajudeen/GitTracker.git
+[submodule "git-tracker-ipfs-client"]
+	path = git-tracker-ipfs-client
+	url = https://github.com/muhammedsirajudeen/gitracker-ipfs-client.git
+[submodule "git-tracker-langchain"]
+	path = git-tracker-langchain
+	url = https://github.com/muhammedsirajudeen/gitwrapper_langchain.git
+[submodule "git-tracker-smartcontracts"]
+	path = git-tracker-smartcontracts
+	url = https://github.com/muhammedsirajudeen/gittracker-smartcontracts.git
